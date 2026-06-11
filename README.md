@@ -38,14 +38,15 @@
 
 ### Presentation endpoint
 
-**URL:** **PASTE YOUR RENDER URL HERE/presentation**
+**URL:** https://final-exam-benoit-you.onrender.com/presentation
 
-**Expected result:** *Result of the call*
+**Expected result:** Final Exam - Production
 
 ### Correction endpoint
 
-**URL:** **PASTE YOUR RENDER URL HERE/correction**
+**URL:** *https://final-exam-benoit-you.onrender.com/correction*
 
+**Error after first call:** Internal Server Error
 **Expected result after correction:** *Put the result of the call after the correction*
 
 ---

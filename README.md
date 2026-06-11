@@ -2,19 +2,19 @@
 
 ## Student information
 
-**Student name:** *Benoit YOU*
+**Student name:** Benoit YOU
 
-**GitHub repository URL:** *https://github.com/BYOU-NUV/Final_Exam_Benoit-YOU*
+**GitHub repository URL:** https://github.com/BYOU-NUV/Final_Exam_Benoit-YOU
 
-**Render application URL:** *PASTE YOUR RENDER URL HERE*
+**Render application URL:** https://final-exam-benoit-you.onrender.com/
 
 ---
 
 ## Application information
 
-**Application name:** *Final Exam - Benoit YOU*
+**Application name:** Final Exam - Benoit YOU
 
-**Render project name:** *Final Exam - Benoit YOU*
+**Render project name:** Final Exam - Benoit YOU
 
 **Branch used for production deployment:** **main**
 
@@ -47,7 +47,7 @@
 **URL:** *https://final-exam-benoit-you.onrender.com/correction*
 
 **Error after first call:** Internal Server Error
-**Expected result after correction:** *Put the result of the call after the correction*
+**Expected result after correction:** Correction endpoint is working
 
 ---
 
@@ -56,4 +56,4 @@
 Briefly explain what you corrected and how you moved the correction from staging to production.
 
 **Explanation:**  
-*WRITE YOUR EXPLANATION HERE*
+I can look directly in the Gitbub action and look where it was in error. Seing that the test on the API correction is error, I know that I have to correct it.
